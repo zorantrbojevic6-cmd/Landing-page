@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+
+}
+
+header{
+
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    background-color: #1f2937;
+
+}
+
+nav{
+    display:flex;
+    gap:16px;
+
+
+}
+
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav a {
+
+    color:white;
+    text-decoration: none;
+
+
+
+}
